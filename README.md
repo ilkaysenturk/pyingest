@@ -1,1 +1,1 @@
-# pyingest
+Explain what the project does, installation instructions, and a CLI usage example.
